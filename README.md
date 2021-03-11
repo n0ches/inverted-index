@@ -30,10 +30,10 @@ To specify an index corresponding to given string key, firstly you should genera
         
 # Collision Handling
 
-        3.1.  Linear Probing (LP):
+        - Linear Probing (LP):
             Linear probing handles collisions by placing the colliding item in the next (circularly) available table cell.
             
-        3.2.  Double Hashing (DH):
+        - Double Hashing (DH):
              Double hashing uses a secondary hash function d(k) and handles collisions by placing an item in the first available cell of the series.
         
         
