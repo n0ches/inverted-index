@@ -1,5 +1,3 @@
-# PLEASE CHANGE THE VALUE OF FILEPATH VARIABLE IN MANAGAEMENT.JAVA ACCORDING TO DIRECTORY OF BBC FOLDER
-
 An inverted index is an index data structure, which is used to map all documents with their content. It keeps a word and all documents containing this word. There are two types of inverted indexes: 
     • Record-level inverted index contains a list of references to documents for each word. 
     • Word-level inverted index contains the positions of each word within a document. 
@@ -39,4 +37,6 @@ To specify an index corresponding to given string key, firstly you should genera
              Double hashing uses a secondary hash function d(k) and handles collisions by placing an item in the first available cell of the series.
         
         
+# ATTENTION
 
+   PLEASE CHANGE THE VALUE OF FILEPATH VARIABLE IN MANAGAEMENT.JAVA ACCORDING TO DIRECTORY OF BBC FOLDER
