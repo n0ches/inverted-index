@@ -37,6 +37,7 @@ To specify an index corresponding to given string key, firstly you should genera
              Double hashing uses a secondary hash function d(k) and handles collisions by placing an item in the first available cell of the series.
         
         
-# ATTENTION
+# DATASET
 
+   https://www.kaggle.com/yufengdev/bbc-fulltext-and-category
    PLEASE CHANGE THE VALUE OF FILEPATH VARIABLE IN MANAGAEMENT.JAVA ACCORDING TO DIRECTORY OF BBC FOLDER
