@@ -40,4 +40,5 @@ To specify an index corresponding to given string key, firstly you should genera
 # DATASET
 
    https://www.kaggle.com/yufengdev/bbc-fulltext-and-category
+   
    PLEASE CHANGE THE VALUE OF FILEPATH VARIABLE IN MANAGAEMENT.JAVA ACCORDING TO DIRECTORY OF BBC FOLDER
