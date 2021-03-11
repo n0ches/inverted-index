@@ -26,7 +26,7 @@ To build an inverted index, you should fetch all the documents, ignore any punct
 To specify an index corresponding to given string key, firstly you should generate an integer hash code by using a special function. Then, resulting hash code has to be converted to the range 0 to N-1 using a compression function, such as modulus operator (N is the size of hash table). You are expected to implement two different hash functions including simple summation function and polynomial accumulation function.
         
         - Simple Summation Function (SSF)
-        -Polynomial Accumulation Function (PAF)
+        - Polynomial Accumulation Function (PAF)
         
 # Collision Handling
 
